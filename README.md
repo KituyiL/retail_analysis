@@ -76,7 +76,7 @@ RETAIL/
 - Dealt with cancelled orders, orders with errors and orders with zero unit price.
 
 **SQL**
-- Created a database and tble.
+- Created a database and table.
 - Ran SQL views and queries and results were automatically saved as .csv files.
 
 ## Analysis findings
